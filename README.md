@@ -40,14 +40,16 @@ npm run server
 
 node seed.js
 
-
 cd frontend
 
 npm install
 
 npm start
 
-Backend: Visit http://localhost:8080/ server:https://jobpotalbackend-2.onrender.com
+Backend: Visit http://localhost:8080/ 
+server:https://jobpotalbackend-3.onrender.com
+Frontend: Visit http://localhost:3000
+Live: https://loquacious-cocada-736aea.netlify.app/
+Github link: https://github.com/RupeshSahu969/Job-Board-Mini-App
 
-Frontend: Visit http://localhost:3000 
 
