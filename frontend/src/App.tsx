@@ -10,7 +10,9 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-       
+        <Route path="/jobs/:id" element={<JobDetail />} />
+    
+        <Route path="/applications/:id" element={<ApplyForm />} />
       </Routes>
     </>
   );
